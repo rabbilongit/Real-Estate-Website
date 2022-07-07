@@ -22,4 +22,3 @@ Am looking for willing collaborators to build and intergrate a Rest API using no
 
 Having experience with online team would really help me out.
 
-If you are willing to collaborate please contact me through.Email **castercodes@gmail.com**

@@ -11,15 +11,13 @@ const HomeContactContainer = () => {
             <Section.FlexItem width="70%">
               <Section.SubTitle size="1">Contact Us</Section.SubTitle>
               <Section.Text>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non,
-                nemo dolorem amet cupiditate sequi cum?
+              Real Home is committed to ensuring digital accessibility for individuals with disabilities. We are continuously working to improve the accessibility of our web experience for everyone, and we welcome feedback and accommodation requests. If you wish to report an issue or seek an
               </Section.Text>
               <Section.Flex>
                 <Section.FlexItem width="50%">
                   <Section.SubTitle>We Will Get In Touch</Section.SubTitle>
                   <Section.Text>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Non,
+                 Real Home Inc. holds real estate brokerage licenses in multiple states. Real Home (India), Inc. holds real estate brokerage licenses in multiple provinces.
                   </Section.Text>
                 </Section.FlexItem>
                 <Section.FlexItem width="50%">
@@ -27,8 +25,7 @@ const HomeContactContainer = () => {
                     Get Instant Support From Us
                   </Section.SubTitle>
                   <Section.Text>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Non,
+                  We are creating a seamless online experience,
                   </Section.Text>
                 </Section.FlexItem>
               </Section.Flex>
